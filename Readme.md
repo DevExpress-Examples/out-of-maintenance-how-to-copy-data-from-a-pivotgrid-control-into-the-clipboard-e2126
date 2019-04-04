@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/HowToCopyClipboard/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToCopyClipboard/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/HowToCopyClipboard/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/HowToCopyClipboard/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/HowToCopyClipboard/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToCopyClipboard/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Copy Data from a PivotGrid Control into the Clipboard
 
